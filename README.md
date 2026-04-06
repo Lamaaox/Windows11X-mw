@@ -4,3 +4,7 @@ And on the same year i found out that if you overwrite the partition disk style 
 You can do this by overwriting the MBR with mikeos's bootloader which you can find on: https://mikeos.sourceforge.net/
 
 This is C# .net framework btw
+
+Demonstration:
+<img width="1018" height="763" alt="image" src="https://github.com/user-attachments/assets/05f861b0-f181-413d-aa74-7fe6f590c4e6" />
+
